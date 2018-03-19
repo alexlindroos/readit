@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ReadIt</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="home">Home</string>
+    <string name="list">List</string>
+    <string name="profile">Profile</string>
+    <string name="your_subreddits">Your subreddits</string>
+    <string name="no_data_available">No data</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type a subreddit</string>
+    <string name="error_search">Error occurred. Try again.</string>
+    <string name="comment_karma">Comment karma: </string>
+    <string name="link_karma">Link karma: </string>
+    <string name="gold">Gold: </string>
+    <string name="verified">Verified: </string>
+    <string name="created">Created: </string>
+    <string name="logout">Logout</string>
+    <string name="logout_alert">Are you sure you want to logout?</string>
+    <string name="comments">Comments</string>
+    <string name="is_not_verified">Is not verified</string>
+    <string name="is_verified">Is verified</string>
+</resources>
